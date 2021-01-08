@@ -3,7 +3,7 @@ sphinxcontrib-redoc
 
 |pypi-version| |travis-ci|
 
-The Sphinx_ extension that renders OpenAPI_ (fka Swagger) specs with love
+The Sphinx_ extension that renders OpenAPI_ specifications with love
 (❤️) using amazing ReDoc_. Don't believe it? Here's `the proof`_. Now stop
 frustrating and start moving your projects to OpenAPI and ReDoc with this
 small first step:
